@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167",
+            "id": "77777777-7777-7777-7777-topnet777dar",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ragnarservers"
+          "path": "/topnet"
         }
       }
     }
